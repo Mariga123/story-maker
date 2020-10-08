@@ -1,0 +1,10 @@
+/* r:"));
+var number2 = parseInt(prompt("Enter another number:"));
+var result = multiply(number1, number2);
+alert(result);r:"));
+var number2 = parseInt(prompt("Enter another number:"));
+var result = multiply(number1, number2);
+alert(result); */
+#story {
+    display: none;
+}
